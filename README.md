@@ -1,3 +1,3 @@
 # CV
 
-![alt tag](http://imgur.com/a/CFFn7)
+![alt tag](http://i.imgur.com/6ju2gS6.gifv)
