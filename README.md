@@ -24,6 +24,27 @@ Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
 Splitter [Frontend](https://github.com/wrumble/splitter-frontend) [Backend](https://github.com/wrumble/splitter-backend) |  Splitter is an OCR based app designed to simplify splitting the bill at a restaurant. Built in 10 days as a an android and ios app using tesseract OCR via the command line. | Javascript, AngularJS, Rails API, Ionic  | Karma, Protractor, Phonegap, ngrok
 
+##Education
+- Mar '16 - Jul '16 - Makers Academy
+  - Agile and Extreme programming best practices
+  - Ruby, Sinatra, Rails, Javascript, AngularJS, PHP, Ionic, HTML, CSS
+  - RSpec, Capybara, Jasmine, Karma, Protractor
+- Sept '04 – Jun '07 – Leeds University 
+  - 2:2 Bachelor of Science with Honours studying Aviation Technology with pilot studies. 
+  - I acquired a Private Pilots Licence as part of the course.  
+- July '03 - July '04 - Gap Year at Scots College, Sydney, Australia
+  - Assisted teachers in all departments, coached sports teams, helped out on school field trips and occasionally tutored. 
+- Sept '99 – June '03 – Canford School Dorset UK
+  - 11 GCSE’s
+  - 4 As-levels (Computer Studies, Maths, Physics and Design Technology)
+  - 3 A-levels (Maths, Physics and Design Technology)
+- Previously attended schools in Hong Kong and Virginia, USA – 1989 to 1999
 
-
-
+##Interests and Hobbies
+- Skiing – Professional 
+- Rugby – Canford School 1st XV, Leeds University 1st XV (Rugby Union & Rugby League)
+- Athletics – Canford school Captain
+- Surfing – Summer seasons in South of France 2013 & 2014
+- Music - Play guitar, Grade 5 Saxophone, Grade 1 piano
+- Reading – Biographies, cosmology, time
+- IT/Web Development
