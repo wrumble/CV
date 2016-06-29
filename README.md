@@ -1,6 +1,6 @@
 # Wayne Rumble CV
 
-##Who am i?
+##Who am I
 
 <img align="left" src="http://cdn.24.co.za/files/Cms/General/d/2613/58ae9c2f49c2462da5288dd3742fb266.gif" width="180px"> 
 - A full-stack junior web developer raised on TDD, OOP, MVC, XP, SOLID and Agile practices.
